@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задание 2", "Задание 2\Задание 2.csproj", "{48F8952E-F673-4C00-9EB0-828C4F62AEAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков - Лабораторная 3 главы", "Тумвков - Лабораторная 3 главы\Тумаков - Лабораторная 3 главы.csproj", "{6D61D997-868F-4D88-81BA-256E962BB96C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков - Лабораторная 3 главы", "Тумаков - Лабораторная 3 главы\Тумаков - Лабораторная 3 главы.csproj", "{B2343F27-9BB0-43E9-B0A9-B80364089D7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{48F8952E-F673-4C00-9EB0-828C4F62AEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48F8952E-F673-4C00-9EB0-828C4F62AEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48F8952E-F673-4C00-9EB0-828C4F62AEAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D61D997-868F-4D88-81BA-256E962BB96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D61D997-868F-4D88-81BA-256E962BB96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D61D997-868F-4D88-81BA-256E962BB96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D61D997-868F-4D88-81BA-256E962BB96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2343F27-9BB0-43E9-B0A9-B80364089D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2343F27-9BB0-43E9-B0A9-B80364089D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2343F27-9BB0-43E9-B0A9-B80364089D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2343F27-9BB0-43E9-B0A9-B80364089D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
