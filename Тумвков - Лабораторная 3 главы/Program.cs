@@ -28,7 +28,7 @@ struct Bank_Account // структура для упражнения 3.2
     }
 }
 enum ВУЗ // Перечисление для домашнего задания 3.1
-{ 
+{
     КГУ,
     КАИ,
     КХТИ
@@ -49,7 +49,7 @@ public class MainClass
 
         Console.WriteLine(account_type_0);
         Console.WriteLine(account_type_1);
-      
+
         /////////////////////////////////////////////////////////////
 
         Console.WriteLine("\nУпражнение 3.2\n");
