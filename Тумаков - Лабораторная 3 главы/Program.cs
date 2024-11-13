@@ -18,7 +18,7 @@ struct Bank_Account // структура для упражнения 3.2
     /// <summary>
     /// Баланс счёта
     /// </summary>
-    public int account_balance;
+    public decimal account_balance;
     /// <summary>
     /// Выводит информацию о банковском счете – его номер, тип и баланс
     /// </summary>

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задание 2", "Задание 2\Задание 2.csproj", "{48F8952E-F673-4C00-9EB0-828C4F62AEAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков - Лабораторная 3 главы", "Тумаков - Лабораторная 3 главы\Тумаков - Лабораторная 3 главы.csproj", "{B2343F27-9BB0-43E9-B0A9-B80364089D7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Тумаков - Лабораторная 3 главы", "Тумаков - Лабораторная 3 главы\Тумаков - Лабораторная 3 главы.csproj", "{B2343F27-9BB0-43E9-B0A9-B80364089D7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
